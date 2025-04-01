@@ -1,1 +1,1 @@
-# Cryptocureency
+# Cryptocureency Trading platform
